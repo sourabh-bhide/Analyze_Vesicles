@@ -9,5 +9,8 @@ These can be used for :
   spots are then used individually to identify each spots. Image features like average area and number of spots are then extracted for all such 
   identified spots.
   
-3. Itterating on many images and conditions and generating box plots
+3. Iterating on many images and conditions and generating box plots
   Measurements are repeated for all the different experiments and genetic condition. The combined results per experiment are represented in Box plots
+  
+4. TO DO : Statistical tests 
+ 
