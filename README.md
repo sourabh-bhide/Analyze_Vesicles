@@ -1,5 +1,8 @@
 # Analyze_Vesicles
 This repository contains codes used for analysing segmented membrane structures like vescicles used in Kakanj et.al (manuscript in preparation).
+
+![analysis_illustration](https://github.com/sourabh-bhide/Analyze_Vesicles/blob/master/analysis%20illustration.png)
+
 These can be used for :
 
 1. Reshaping and normalising images
